@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <br />
-   My name is Vladimir. I live in Russia, Saint-Petersburg. 
+   My name is Vladimir. I live in Georgia, Batumi. 
 
 <a href="https://www.linkedin.com/in/vladimir-kirilenko-ab388084/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 🚧 **My tasks:**
 <!-- TODO-IST:START -->
-* [x] Learn Data Science
-* [ ] Learn DevOps tools  --in progress--
-* [ ] Become MLOps      
+* [x] Data Science done
+* [x] DevOps  done
+* [ ] MLOps --in progress--      
 <!-- TODO-IST:END -->
